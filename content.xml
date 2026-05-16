@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605162023422DIS60</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260516202342FYGVF9</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Producto final</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Curso competencia digital docente B2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Patricia Cantero Molina</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778955675307</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp8oa001-tazjxc28x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página nueva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8oa002-r09yfiq54</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8oa002-r09yfiq54</odePageId>
+      <odeBlockId>block-1778955788026-31jaemp7s</odeBlockId>
+      <blockName>SdA</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8oa002-r09yfiq54</odePageId>
+          <odeBlockId>block-1778955788026-31jaemp7s</odeBlockId>
+          <odeIdeviceId>idevice-1778955788024-nvmru2s3j</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778955788024-nvmru2s3j" title="" href="{{context_path}}/content/resources/2.1. Comenzamos nuestro proyecto.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/2.1. Comenzamos nuestro proyecto.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778955788024-nvmru2s3j","img_0":{"img":"{{context_path}}/content/resources/2.1. Comenzamos nuestro proyecto.jpg","thumbnail":"{{context_path}}/content/resources/2.1. Comenzamos nuestro proyecto.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8oa005-c6n1ovaco</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Información sobre la protección de datos y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información sobre la protección de datos y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información sobre la protección de datos y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8oa005-c6n1ovaco</odePageId>
+      <odeBlockId>block-1778694555687-sj2a49jgd</odeBlockId>
+      <blockName>Información para el alumnado</blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8oa005-c6n1ovaco</odePageId>
+          <odeBlockId>block-1778694555687-sj2a49jgd</odeBlockId>
+          <odeIdeviceId>idevice-1778694555685-m5l4bl4dz</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778694555685-m5l4bl4dz" title="" href="{{context_path}}/content/resources/Diseño sin título.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Diseño sin título.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778694555685-m5l4bl4dz","img_0":{"img":"{{context_path}}/content/resources/Diseño sin título.png","thumbnail":"{{context_path}}/content/resources/Diseño sin título.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8oa005-mrpoegj7c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8oa005-mrpoegj7c</odePageId>
+      <odeBlockId>block-1778694650445-ivifohdmc</odeBlockId>
+      <blockName>Educaplay / Canva</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8oa005-mrpoegj7c</odePageId>
+          <odeBlockId>block-1778694650445-ivifohdmc</odeBlockId>
+          <odeIdeviceId>idevice-1778694650439-2mxszmdl8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Buenas, para el desarrollo del producto final dentro de mi SDA centrada en la resolución de problemas cotidianos y la toma de decisiones, propongo el uso combinado de Educaplay y Canva.</p>
+<p><strong>Educaplay</strong>: para la creación de actividades interactivas (quiz, ruletas de decisiones, asociaciones…).<br /><strong>Canva</strong>: para la elaboración visual del producto final (infografías o pequeñas presentaciones sobre decisiones cotidianas).<br />El objetivo será facilitar que el alumnado represente situaciones de la vida diaria (compras, organización del tiempo, convivencia…) y reflexione sobre la toma de decisiones mediante un producto visual e interactivo que puedan compartir con el grupo.</p>
+<p>En cuanto a la justificación, he elegido estas herramientas por su versatilidad, ya que ambas permiten adaptar el nivel de dificultad y el formato (visual, textual, interactivo), algo clave en PT para atender a la diversidad. Además son herramientas intuitivas y accesibles para todos, con interfaces visuales claras, uso de iconos y posibilidad de incluir audio e imágenes, lo que beneficia al alumnado con dificultades de comprensión lectora. Por otro lado, se pueden usar tanto en ordenadores como en tablets sin necesidad de instalaciones complejas, ya que funcionan online.</p>
+<p>El grupo presenta un nivel básico-intermedio de competencia digital, por lo que estas herramientas permiten un aprendizaje guiado sin generar frustración. Y, por último, Canva permite trabajar con plantillas accesibles y Educaplay ofrece retroalimentación inmediata, favoreciendo la autonomía e inclusión.</p>
+<p>Además, se tendrán en cuenta medidas de adaptación como el uso de pictogramas, instrucciones simplificadas, trabajo cooperativo con apoyo entre iguales y la posibilidad de respuesta oral o visual. Creo que esta combinación permite trabajar no solo los contenidos, sino también la competencia digital de forma significativa y adaptada al contexto real del aula.</p>
+<p>¡Un saludo!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778694650439-2mxszmdl8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Buenas, para el desarrollo del producto final dentro de mi SDA centrada en la resolución de problemas cotidianos y la toma de decisiones, propongo el uso combinado de Educaplay y Canva.</p>\n<p><strong>Educaplay</strong>: para la creación de actividades interactivas (quiz, ruletas de decisiones, asociaciones…).<br /><strong>Canva</strong>: para la elaboración visual del producto final (infografías o pequeñas presentaciones sobre decisiones cotidianas).<br />El objetivo será facilitar que el alumnado represente situaciones de la vida diaria (compras, organización del tiempo, convivencia…) y reflexione sobre la toma de decisiones mediante un producto visual e interactivo que puedan compartir con el grupo.</p>\n<p>En cuanto a la justificación, he elegido estas herramientas por su versatilidad, ya que ambas permiten adaptar el nivel de dificultad y el formato (visual, textual, interactivo), algo clave en PT para atender a la diversidad. Además son herramientas intuitivas y accesibles para todos, con interfaces visuales claras, uso de iconos y posibilidad de incluir audio e imágenes, lo que beneficia al alumnado con dificultades de comprensión lectora. Por otro lado, se pueden usar tanto en ordenadores como en tablets sin necesidad de instalaciones complejas, ya que funcionan online.</p>\n<p>El grupo presenta un nivel básico-intermedio de competencia digital, por lo que estas herramientas permiten un aprendizaje guiado sin generar frustración. Y, por último, Canva permite trabajar con plantillas accesibles y Educaplay ofrece retroalimentación inmediata, favoreciendo la autonomía e inclusión.</p>\n<p>Además, se tendrán en cuenta medidas de adaptación como el uso de pictogramas, instrucciones simplificadas, trabajo cooperativo con apoyo entre iguales y la posibilidad de respuesta oral o visual. Creo que esta combinación permite trabajar no solo los contenidos, sino también la competencia digital de forma significativa y adaptada al contexto real del aula.</p>\n<p>¡Un saludo!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8oa007-etrj8u7lx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación de contenidos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8oa007-etrj8u7lx</odePageId>
+      <odeBlockId>block-1778694730139-soe93040o</odeBlockId>
+      <blockName>Curación de contenidos</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8oa007-etrj8u7lx</odePageId>
+          <odeBlockId>block-1778694730139-soe93040o</odeBlockId>
+          <odeIdeviceId>idevice-1778694730130-wxhomvsf5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://padlet.com/patriiciiacantero/curacion-de-contenidos-ejg8it0jllz6z827" title="Curación de contenidos 1" target="_blank" rel="noopener">Padlet</a></p>
+<p><a href="https://www.symbaloo.com/shared/AAAABgZzLcAAA42ADtIo_A==" target="_blank" rel="noopener" title="">Symbaloo</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778694730130-wxhomvsf5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://padlet.com/patriiciiacantero/curacion-de-contenidos-ejg8it0jllz6z827\" title=\"Curación de contenidos 1\" target=\"_blank\" rel=\"noopener\">Padlet</a></p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAABgZzLcAAA42ADtIo_A==\" target=\"_blank\" rel=\"noopener\" title=\"\">Symbaloo</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8oa008-x7b2xz9ta</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8oa008-x7b2xz9ta</odePageId>
+      <odeBlockId>block-1778694828647-s2g5sa899</odeBlockId>
+      <blockName>Línea del tiempo por sesiones</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8oa008-x7b2xz9ta</odePageId>
+          <odeBlockId>block-1778694828647-s2g5sa899</odeBlockId>
+          <odeIdeviceId>idevice-1778694828645-lei237axn</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778694828645-lei237axn" title="" href="{{context_path}}/content/resources/línea del tiempo.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/línea del tiempo.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778694828645-lei237axn","img_0":{"img":"{{context_path}}/content/resources/línea del tiempo.png","thumbnail":"{{context_path}}/content/resources/línea del tiempo.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8oa008-au0rd5s0n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica y criterios de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8oa008-au0rd5s0n</odePageId>
+      <odeBlockId>block-1778695255566-k52oaod17</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8oa008-au0rd5s0n</odePageId>
+          <odeBlockId>block-1778695255566-k52oaod17</odeBlockId>
+          <odeIdeviceId>idevice-1778695255562-wtbelofyh</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1sWH5-KWVHvTH430MRdERNCf8YXOidVMi5589kwSE97Y/edit?usp=sharing" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8oa008-y5dn4vjad</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación </pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8oa008-y5dn4vjad</odePageId>
+      <odeBlockId>block-1778695390157-9yvfyv7xi</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8oa008-y5dn4vjad</odePageId>
+          <odeBlockId>block-1778695390157-9yvfyv7xi</odeBlockId>
+          <odeIdeviceId>idevice-1778695390156-vuw338y5k</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778695390156-vuw338y5k" title="" href="{{context_path}}/content/resources/evaluación.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/evaluación.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778695390156-vuw338y5k","img_0":{"img":"{{context_path}}/content/resources/evaluación.png","thumbnail":"{{context_path}}/content/resources/evaluación.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp8oa008-y5dn4vjad</odePageId>
+      <odeBlockId>block-1778695413986-06gis9u54</odeBlockId>
+      <blockName>Explicación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8oa008-y5dn4vjad</odePageId>
+          <odeBlockId>block-1778695413986-06gis9u54</odeBlockId>
+          <odeIdeviceId>idevice-1778695413985-c05pb49pt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para evaluar mi SdA: “Resolvemos retos para vivir mejor”, diseñada desde una metodología activa y competencial (ABP, aprendizaje cooperativo y gamificación), utilizaré dos instrumentos de evaluación que me permitirán recoger información tanto del proceso como del resultado final del aprendizaje del alumnado de PT. Estos son:</p>
+<p><br /><strong>1. RÚBRICA ANALÍTICA</strong><br />La rúbrica analítica será el instrumento principal para valorar el desempeño del alumnado en las tareas más relevantes de la SdA, especialmente en:<br />• Sesiones 3 y 4: para el desarrollo del reto y trabajo cooperativo.<br />• Sesiones 5 y 6: para el uso del REA (Educaplay) y la aplicación práctica de contenidos.<br />• Sesión 8: para la presentación final y la reflexión sobre el aprendizaje realizado.</p>
+<p>La rúbrica incluirá indicadores relacionados con las competencias trabajadas durante la SdA como son: la comprensión de instrucciones, resolución de problemas, trabajo cooperativo, competencia digital, comunicación oral y autonomía. Además contará con niveles de logro adaptados al alumnado PT, por ejemplo, si necesita ayuda, si está en proceso, si lo consigue con ayuda o si lo consigue de forma autónoma.</p>
+<p>Los datos obtenidos para la rúbrica se recogerán mediante:</p>
+<ul>
+<li>Observación directa durante las actividades.</li>
+<li>Revisión de las producciones y tareas realizadas.</li>
+<li>Participación en dinámicas cooperativas.</li>
+<li>Evidencias digitales obtenidas a través de Educaplay.</li>
+</ul>
+<p>Toda la información será registrada en el cuaderno del docente para facilitar el seguimiento individualizado.</p>
+<p>En el aula PT pueden aparecer variables como la presencia de diferentes ritmos de aprendizaje, necesidad de apoyos visuales, dificultades de atención o comunicación y/o distinto nivel de autonomía, por lo que, para garantizar una evaluación inclusiva:</p>
+<ul>
+<li>Adaptaré los criterios al nivel competencial del alumnado.</li>
+<li>Permitiré apoyos visuales y ayuda guiada.</li>
+<li>Valoraré el progreso individual más que la comparación entre iguales.</li>
+<li>Ofreceré más tiempo cuando sea necesario.</li>
+<li>Realizaré observaciones en distintos momentos para evitar evaluaciones puntuales poco representativas. De esta forma, la rúbrica será flexible y ajustada a las necesidades reales del alumnado.</li>
+</ul>
+<p><strong>2. LISTA DE COTEJO</strong><br />La lista de cotejo se utilizará para registrar conductas y habilidades concretas durante las sesiones iniciales y de trabajo diario, especialmente en:<br />• Sesión 1: detección de necesidades.<br />• Sesión 2: organización de roles y trabajo cooperativo.<br />• Sesiones 5 y 6: uso de herramientas digitales y participación en actividades interactivas.</p>
+<p>Algunos indicadores serán: sigue instrucciones sencillas, participa en el grupo, respeta turnos de palabra, utiliza correctamente la tablet u ordenador, finaliza la actividad propuesta, solicita ayuda de forma adecuada y mantiene la atención durante la tarea. Las respuestas se registrarán mediante: sí, en proceso o no.</p>
+<p>La información se recogerá a través de:</p>
+<ul>
+<li>Observación sistemática del alumnado.</li>
+<li>Registro rápido durante las sesiones.</li>
+<li>Anotaciones breves al finalizar cada actividad.</li>
+</ul>
+<p>Este instrumento permitirá obtener información inmediata sin interrumpir el desarrollo normal de la clase. Ahora bien, en el alumnado de PT, algunas conductas pueden variar según el estado emocional del alumnado, su motivación, el contexto del aula y/o el nivel de cansancio o atención. Por ello:</p>
+<ul>
+<li>Haré registros en diferentes momentos y no solo en una sesión concreta.</li>
+<li>Tendré en cuenta el contexto en el que se produce cada conducta.</li>
+<li>Compararé la evolución del alumno consigo mismo.</li>
+<li>Registraré también los apoyos utilizados para valorar cuáles favorecen mejor su participación y autonomía. Así, la lista de cotejo funcionará como una herramienta flexible de seguimiento continuo y no únicamente como un registro cerrado.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778695413985-c05pb49pt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para evaluar mi SdA: “Resolvemos retos para vivir mejor”, diseñada desde una metodología activa y competencial (ABP, aprendizaje cooperativo y gamificación), utilizaré dos instrumentos de evaluación que me permitirán recoger información tanto del proceso como del resultado final del aprendizaje del alumnado de PT. Estos son:</p>\n<p><br /><strong>1. RÚBRICA ANALÍTICA</strong><br />La rúbrica analítica será el instrumento principal para valorar el desempeño del alumnado en las tareas más relevantes de la SdA, especialmente en:<br />• Sesiones 3 y 4: para el desarrollo del reto y trabajo cooperativo.<br />• Sesiones 5 y 6: para el uso del REA (Educaplay) y la aplicación práctica de contenidos.<br />• Sesión 8: para la presentación final y la reflexión sobre el aprendizaje realizado.</p>\n<p>La rúbrica incluirá indicadores relacionados con las competencias trabajadas durante la SdA como son: la comprensión de instrucciones, resolución de problemas, trabajo cooperativo, competencia digital, comunicación oral y autonomía. Además contará con niveles de logro adaptados al alumnado PT, por ejemplo, si necesita ayuda, si está en proceso, si lo consigue con ayuda o si lo consigue de forma autónoma.</p>\n<p>Los datos obtenidos para la rúbrica se recogerán mediante:</p>\n<ul>\n<li>Observación directa durante las actividades.</li>\n<li>Revisión de las producciones y tareas realizadas.</li>\n<li>Participación en dinámicas cooperativas.</li>\n<li>Evidencias digitales obtenidas a través de Educaplay.</li>\n</ul>\n<p>Toda la información será registrada en el cuaderno del docente para facilitar el seguimiento individualizado.</p>\n<p>En el aula PT pueden aparecer variables como la presencia de diferentes ritmos de aprendizaje, necesidad de apoyos visuales, dificultades de atención o comunicación y/o distinto nivel de autonomía, por lo que, para garantizar una evaluación inclusiva:</p>\n<ul>\n<li>Adaptaré los criterios al nivel competencial del alumnado.</li>\n<li>Permitiré apoyos visuales y ayuda guiada.</li>\n<li>Valoraré el progreso individual más que la comparación entre iguales.</li>\n<li>Ofreceré más tiempo cuando sea necesario.</li>\n<li>Realizaré observaciones en distintos momentos para evitar evaluaciones puntuales poco representativas. De esta forma, la rúbrica será flexible y ajustada a las necesidades reales del alumnado.</li>\n</ul>\n<p><strong>2. LISTA DE COTEJO</strong><br />La lista de cotejo se utilizará para registrar conductas y habilidades concretas durante las sesiones iniciales y de trabajo diario, especialmente en:<br />• Sesión 1: detección de necesidades.<br />• Sesión 2: organización de roles y trabajo cooperativo.<br />• Sesiones 5 y 6: uso de herramientas digitales y participación en actividades interactivas.</p>\n<p>Algunos indicadores serán: sigue instrucciones sencillas, participa en el grupo, respeta turnos de palabra, utiliza correctamente la tablet u ordenador, finaliza la actividad propuesta, solicita ayuda de forma adecuada y mantiene la atención durante la tarea. Las respuestas se registrarán mediante: sí, en proceso o no.</p>\n<p>La información se recogerá a través de:</p>\n<ul>\n<li>Observación sistemática del alumnado.</li>\n<li>Registro rápido durante las sesiones.</li>\n<li>Anotaciones breves al finalizar cada actividad.</li>\n</ul>\n<p>Este instrumento permitirá obtener información inmediata sin interrumpir el desarrollo normal de la clase. Ahora bien, en el alumnado de PT, algunas conductas pueden variar según el estado emocional del alumnado, su motivación, el contexto del aula y/o el nivel de cansancio o atención. Por ello:</p>\n<ul>\n<li>Haré registros en diferentes momentos y no solo en una sesión concreta.</li>\n<li>Tendré en cuenta el contexto en el que se produce cada conducta.</li>\n<li>Compararé la evolución del alumno consigo mismo.</li>\n<li>Registraré también los apoyos utilizados para valorar cuáles favorecen mejor su participación y autonomía. Así, la lista de cotejo funcionará como una herramienta flexible de seguimiento continuo y no únicamente como un registro cerrado.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8oa00a-bgters7ll</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8oa00a-bgters7ll</odePageId>
+      <odeBlockId>block-1778695965988-d0umvpwmd</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8oa00a-bgters7ll</odePageId>
+          <odeBlockId>block-1778695965988-d0umvpwmd</odeBlockId>
+          <odeIdeviceId>idevice-1778695965984-xs15jk5gm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría:</strong><br />Patricia Cantero Molina</p>
+<p><strong>Descripción:</strong><br />Situación de Aprendizaje interdisciplinar dirigida al alumnado de Educación Primaria centrada en la resolución de problemas cotidianos relacionados con la toma de decisiones, la organización y la convivencia. El proyecto trabaja la comprensión, el pensamiento crítico, el trabajo cooperativo y la competencia digital mediante metodologías activas y recursos interactivos elaborados con eXeLearning y Educaplay.</p>
+<p><strong>Licencia de uso:</strong><br />Creative Commons BY-SA 4.0.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778695965984-xs15jk5gm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría:</strong><br />Patricia Cantero Molina</p>\n<p><strong>Descripción:</strong><br />Situación de Aprendizaje interdisciplinar dirigida al alumnado de Educación Primaria centrada en la resolución de problemas cotidianos relacionados con la toma de decisiones, la organización y la convivencia. El proyecto trabaja la comprensión, el pensamiento crítico, el trabajo cooperativo y la competencia digital mediante metodologías activas y recursos interactivos elaborados con eXeLearning y Educaplay.</p>\n<p><strong>Licencia de uso:</strong><br />Creative Commons BY-SA 4.0.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
